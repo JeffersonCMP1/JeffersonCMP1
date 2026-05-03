@@ -56,7 +56,7 @@ Actualmente estoy mejorando mis habilidades en backend y frontend.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?JeffersonCMP1=tuusuario&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonCMP1&layout=compact&theme=tokyonight" />
 </p>
 
 <hr>
