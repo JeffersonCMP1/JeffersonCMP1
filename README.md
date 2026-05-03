@@ -29,30 +29,34 @@ Actualmente estoy mejorando mis habilidades en backend y frontend.
 
 <hr>
 
-<h2>📂 Proyectos destacados</h2>
+<!-- <h2>📂 Proyectos destacados</h2> -->
 
-<ul>
-  <li>
+<!-- <ul> -->
+
+  <!-- <li>
     <b>🧾 Sistema de Ventas</b><br>
     Aplicación web con roles de usuario, login y gestión de ventas.
-  </li>
-  <br>
-  <li>
+  </li> -->
+
+  <!-- <br> -->
+
+  <!-- <li>
     <b>📊 Dashboard Administrativo</b><br>
     Visualización de datos y control de operaciones.
-  </li>
-</ul>
+  </li> -->
 
-<hr>
+<!-- </ul> -->
+
+<!-- <hr> -->
 
 <h2>📈 Estadísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeffersonCMP1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?JeffersonCMP1=tuusuario&layout=compact&theme=tokyonight" />
 </p>
 
 <hr>
@@ -60,8 +64,8 @@ Actualmente estoy mejorando mis habilidades en backend y frontend.
 <h2>📫 Contacto</h2>
 
 <p>
-📧 Email: tuemail@gmail.com <br>
-💼 LinkedIn: https://linkedin.com/in/tuusuario
+📧 Email: jeffersoncrismanpacori@gmail.com <br>
+💼 LinkedIn: https://www.linkedin.com/in/jefferson-cristhian-mamani-pacori
 </p>
 
 <hr>
