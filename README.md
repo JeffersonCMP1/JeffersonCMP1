@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy TuNombre</h1>
 
-<!--
-**JeffersonCMP1/JeffersonCMP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desarrollador Web | 🚀 .NET | 🌎 Perú
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/tuusuario">
+    <img src="https://img.shields.io/github/followers/tuusuario?label=Follow&style=social" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>🚀 Sobre mí</h2>
+<p>
+Soy desarrollador enfocado en aplicaciones web con <b>.NET</b>, 
+me gusta crear sistemas funcionales y escalables.
+Actualmente estoy mejorando mis habilidades en backend y frontend.
+</p>
+
+<hr>
+
+<h2>🛠️ Tecnologías</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlserver,git" />
+</p>
+
+<hr>
+
+<h2>📂 Proyectos destacados</h2>
+
+<ul>
+  <li>
+    <b>🧾 Sistema de Ventas</b><br>
+    Aplicación web con roles de usuario, login y gestión de ventas.
+  </li>
+  <br>
+  <li>
+    <b>📊 Dashboard Administrativo</b><br>
+    Visualización de datos y control de operaciones.
+  </li>
+</ul>
+
+<hr>
+
+<h2>📈 Estadísticas</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" />
+</p>
+
+<hr>
+
+<h2>📫 Contacto</h2>
+
+<p>
+📧 Email: tuemail@gmail.com <br>
+💼 LinkedIn: https://linkedin.com/in/tuusuario
+</p>
+
+<hr>
+
+<p align="center">
+  ⭐ Gracias por visitar mi perfil
+</p>
