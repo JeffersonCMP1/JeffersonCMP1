@@ -24,7 +24,7 @@ Actualmente estoy mejorando mis habilidades en backend y frontend.
 <h2>🛠️ Tecnologías</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sql,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mssql,git" />
 </p>
 
 <hr>
