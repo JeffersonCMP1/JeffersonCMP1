@@ -24,7 +24,8 @@ Actualmente estoy mejorando mis habilidades en backend y frontend.
 <h2>🛠️ Tecnologías</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mssql,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git" />
+  <img src="https://raw.githubusercontent.com/JeffersonCMP1/assets/main/icons/sql-server.png" width="48" />
 </p>
 
 <hr>
