@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hola, soy TuNombre</h1>
+<h1 align="center">👋 Hola, soy Jefferson</h1>
 
 <p align="center">
   💻 Desarrollador Web | 🚀 .NET | 🌎 Perú
 </p>
 
 <p align="center">
-  <a href="https://github.com/tuusuario">
-    <img src="https://img.shields.io/github/followers/tuusuario?label=Follow&style=social" />
+  <a href="https://github.com/JeffersonCMP1">
+    <img src="https://img.shields.io/github/followers/JeffersonCMP1?label=Follow&style=social" />
   </a>
 </p>
 
